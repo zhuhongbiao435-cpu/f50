@@ -1,0 +1,8 @@
+{
+  "name": "Remix ZTE F50 Monitor",
+  "description": "ZTE F50 5G portable router monitor with live thermal gauges, cellular signal metrics, and traffic statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
